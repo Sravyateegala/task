@@ -1,0 +1,229 @@
+.logo img{
+    margin-left: 20px;
+}
+.logo nav{
+   height: 20px;
+   margin-top: 30px;
+}
+.logo nav *{
+    display: inline;
+    padding: 10px;
+}
+.logo nav ul li a{
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    margin-left: 20px;
+}
+.logo nav ul li a:hover {
+color: rgb(123, 197, 12);
+zoom:1.1;
+}
+.parallax{
+   background-image: url("C:\\Users\\SRAVYA TEEGALA\\OneDrive\\Pictures\\green1.jpg");
+    min-height: 600px;
+    background-attachment: fixed;
+    filter: blur(3px);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+input[type=text]{
+    width: 32%;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 25px;
+    border: 2px solid rgb(18, 18, 18);
+    margin-left: 520px;
+    position: relative;
+    top: -350px;
+} 
+i{
+    font-size: 25px;
+    position: relative;
+    top: -347px;
+    left: -44px;
+}
+.content h1{
+    position: relative;
+    top: -400px;
+    color: white;
+}
+.main h1{
+    position: relative;
+    top: -70px;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.main p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.main table{
+    margin-left: 400px;
+    position: relative;
+    top: -100px;
+}
+.main table tr td i{
+    position: relative;
+    top: 55px;
+    font-size: 45px;
+    margin-left: -20px;
+    color: red;
+}
+.head{
+    margin-left: 100px;
+}
+.head small{
+    font-size: 25px;
+    color: rgb(105, 105, 157);
+}
+.container1{
+    display: flex;
+    justify-content: center;
+}
+.image1 {
+    padding: 15px;
+    cursor: pointer;
+}
+.image2 {
+    padding: 15px;
+    cursor: pointer;
+}.image3 {
+    padding: 15px;
+    cursor: pointer;
+}
+.image1 img:hover{
+    zoom:1.1;
+}
+.image2 img:hover{
+    zoom:1.1;
+}.image3 img:hover{
+    zoom:1.1;
+}
+.hr{
+    width: 95%;
+}
+.button-h{
+    height: 50px;
+    width: 180px;
+    font-weight: bold;
+    align-items: center;
+    background-color: rgb(118, 188, 216);
+    border: solid rgb(118, 188, 216);
+    border-radius: 5px;
+    margin-left: 700px;
+}
+.button-h a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.button-h:hover{
+    background-color: white;
+}
+.button-h a:hover{
+    color:rgb(118, 188, 216) ;
+}
+.Contact {
+    background-image:linear-gradient(rgb(155, 241, 155),white);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    margin-top: 20px;
+}
+.Contact p{
+    text-align: center;
+    color: rgb(26, 25, 25);
+    font-weight: bold;
+    color:black;
+    font-size: 20px;
+}
+.head2{
+    position: relative;
+    top: 20px;
+    font-size: 45px;
+}
+.Contact input[type=text]{
+    border: 1px solid black;
+    position: relative;
+    top: 0px;
+    left: -270px;
+    border-radius: 0px;
+    width: 20%;
+    height: 34px;
+    margin-left: 350px;
+}
+.Contact label{
+    margin-left: 200px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.button-r{
+    margin-left: 300px;
+    width: 120px;
+    height: 50px;
+    cursor: pointer;
+    background-color: rgb(253, 76, 76);
+    border: solid  rgb(253, 76, 76) ;
+    border-radius: 5px;
+    position: relative;
+    top: -30px;
+    left: 30px;
+}
+.button-r a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.button-r:hover{
+    background-color: white;
+}
+.button-r a:hover{
+    color:rgb(253, 76, 76);
+}
+.Contact input[type=number]{
+    margin-left: 27px;
+    width: 300px;
+}
+.logo2 p{
+    margin-left: 40px;
+    color:black;
+}
+.logo2{
+    position: relative;
+    top: 190px;
+}
+.foot table{
+    margin-right: 150px;
+    position: relative;
+    top: -100px;
+}
+.foot table i{
+    position: relative;
+    top: 10px;
+}
+.hr1{
+    width: 90%;
+    position: relative;
+    top: 60px;
+    margin-left: 70px;
+}
+.p h4{
+    color: white;
+    /* text-align: right; */
+}
+.p{
+    background-color: gray;
+    position: relative;
+    top: 271px;
+    height: 40px;
+}
+.main{
+    box-sizing: border-box;
+    border: 1px gainsboro;
+}

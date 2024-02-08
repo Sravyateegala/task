@@ -1,0 +1,105 @@
+.logo img{
+    margin-left: 20px;
+}
+.logo nav{
+   height: 20px;
+   margin-top: 30px;
+}
+.logo nav *{
+    display: inline;
+    padding: 10px;
+}
+.logo nav ul li a{
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    margin-left: 20px;
+}
+.logo nav ul li a:hover {
+    color: rgb(123, 197, 12);
+}
+.card{
+        background-color: white;
+        width: 300px;
+        padding: 30px;
+        margin: 10px;
+        border-radius: 5px;
+        text-align: center;
+        border: 1px solid gainsboro;
+}
+.head{
+    margin-left: 100px;
+}
+.head small{
+    font-size: 25px;
+    color: rgb(105, 105, 157);
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-left: 150px;
+    cursor: pointer;
+}
+.card img:hover{
+    zoom:1.1;
+}
+.button-h{
+    height: 35px;
+    width: 130px;
+    color: white;
+    background-color: rgb(247, 128, 128);
+    position: relative;
+    top: -267px;
+    left: 85px;
+}
+.button-r{
+        height: 35px;
+        width: 130px;
+        color: white;
+        background-color: rgb(247, 128, 128);
+        position: relative;
+        top: -246px;
+        left: 85px;
+    
+}
+.button-v{
+    height: 35px;
+    width: 130px;
+    color: white;
+    background-color: rgb(247, 128, 128);
+    position: relative;
+    top: -228px;
+    left: 85px;
+
+}
+.button-m{
+    height: 35px;
+    width: 130px;
+    color: white;
+    background-color: rgb(247, 128, 128) ;
+    position: relative;
+    top: -209px;
+    left: 85px;
+}
+.button-d{
+    height: 35px;
+    width: 130px;
+    color: white;
+    background-color: rgb(247, 128, 128) ;
+    position: relative;
+    top: -191px;
+    left: 85px;
+}
+.button-s{
+    height: 35px;
+    width: 130px;
+    color: white;
+    background-color: rgb(247, 128, 128) ;
+    position: relative;
+    top: -208px;
+    left: 85px;
+}
+
